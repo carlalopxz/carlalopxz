@@ -1,5 +1,6 @@
-<img src="https://github.com/carlalopxz/carlalopxz/blob/main/CALENDAR%20(1).png">
-
+<h1 align="center">
+  <img src="https://github.com/carlalopxz/carlalopxz/blob/main/CALENDAR.gif" width="500px" align="center"/>
+</h1>
 <br/>
 <h2>Conect whit me:</h2>
 <a href="https://www.linkedin.com/in/carlalopez164/">
