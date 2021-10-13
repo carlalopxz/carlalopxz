@@ -2,7 +2,7 @@
   <img src="https://github.com/carlalopxz/carlalopxz/blob/main/CALENDAR.gif" width="500px" align="center"/>
 </h1>
 <br/>
-<h2>Conect whit me:</h2>
+<h2>Connect whit me:</h2>
 <a href="https://www.linkedin.com/in/carlalopez164/">
   <img align="left" alt="Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
