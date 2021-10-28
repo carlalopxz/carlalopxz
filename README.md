@@ -3,11 +3,11 @@
 </h1>
 <br/>
 <h2>Connect whit me:</h2>
-<a href="https://www.linkedin.com/in/carlalopez164/" target: "_blank">
+<a href="https://www.linkedin.com/in/carlalopez164/" target="_blank">
   <img align="left" alt="Linkedin" width="30px" src="https://toppng.com/uploads/preview/linkedin-square-logo-comments-linkedin-icon-black-11563087424lpctodfamj.png"/>
 </a>
 
-<a href="https://www.instagram.com/carlalopxz/" target:"_blank">
+<a href="https://www.instagram.com/carlalopxz/"target="_blank">
   <img align="left" alt="Instagram" width="30px" src="https://www.elganchocf.com/wp-content/uploads/2019/03/white-instagram-logo-transparent-background-7740.png" />
 </a>
 
