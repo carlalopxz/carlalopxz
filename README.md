@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://www.instagram.com/carlalopxz/">
-  <img align="left" alt="Instagram" width="30px" src="https://png.pngtree.com/element_our/sm/20180509/sm_5af2d4cabfdf2.jpg" />
+  <img align="left" alt="Instagram" width="30px" src="https://www.clipartmax.com/png/small/231-2312557_500-instagram-logo-instagram-logo-white-vector.png" />
 </a>
 
 <br />
