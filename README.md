@@ -4,7 +4,7 @@
 <br/>
 <h2>Connect whit me:</h2>
 <a href="https://www.linkedin.com/in/carlalopez164/">
-  <img align="left" alt="Linkedin" width="30px" src="https://github.com/carlalopxz/carlalopxz/blob/main/linkedin%20logo%20white.png />
+  <img align="left" alt="Linkedin" width="30px" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png "/>
 </a>
 
 <a href="https://www.instagram.com/carlalopxz/">
