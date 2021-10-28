@@ -4,11 +4,11 @@
 <br/>
 <h2>Connect whit me:</h2>
 <a href="https://www.linkedin.com/in/carlalopez164/">
-  <img align="left" alt="Linkedin" width="30px" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png "/>
+  <img align="left" alt="Linkedin" width="30px" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png"/>
 </a>
 
 <a href="https://www.instagram.com/carlalopxz/">
-  <img align="left" alt="Instagram" width="30px" src="https://www.elganchocf.com/wp-content/uploads/2019/03/white-instagram-logo-transparent-background-7740.png" />
+  <img align="left" alt="Instagram" width="30px" src="https://toppng.com/uploads/preview/linkedin-square-logo-comments-linkedin-icon-black-11563087424lpctodfamj.png" />
 </a>
 
 <br />
