@@ -7,7 +7,7 @@
   <img align="left" alt="Linkedin" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
 </a>
 
-<a href="https://www.twitter.com/CarlaLopezDevs"  target="_blank">
+<a href="https://www.twitter.com/CarlaLopezDev"  target="_blank">
   <img align="left" alt="Twitter" width="30px" src="https://i0.wp.com/hipertextual.com/wp-content/uploads/2012/06/twitter-bird-white-on-blue.jpg?fit=300%2C300&ssl=1" />
 </a>
 
